@@ -1,2 +1,2 @@
-#!bin/bash
-touch iamafile /tmp
+#!/bin/bash
+echo "#!/bin/bash" > iamafile /tmp
