@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod al+S *
+chmod a+S*
